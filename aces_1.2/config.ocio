@@ -29,9 +29,6 @@ roles:
   # Non-color data
   data: Non-Color
 
-  # CIE XYZ color space
-  XYZ: XYZ
-
   # Specifed by OCIO, not used in Blender
   color_timing: Filmic Log
   compositing_log: Filmic Log
